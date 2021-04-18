@@ -35,5 +35,6 @@ public class Ejercicio1Triangulos {
         else{
             System.out.println("Triangulo escaleno");
         }
+        // este es un comentario de prueba
     }   
 }
