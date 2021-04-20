@@ -123,6 +123,7 @@ public class TrinagulosEnClase extends javax.swing.JFrame {
        }
         // Nuevamente disculpen estoy probando
         //Prueba para el proyecto
+        //Subir correctamente
     }//GEN-LAST:event_jBMostrarActionPerformed
 
     /**
