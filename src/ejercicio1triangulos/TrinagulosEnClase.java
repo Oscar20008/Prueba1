@@ -100,9 +100,9 @@ public class TrinagulosEnClase extends javax.swing.JFrame {
                     .addComponent(jLabel3)
                     .addComponent(jTLado3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                 .addGap(37, 37, 37)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jBMostrar)
-                    .addComponent(jLResultado, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLResultado, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jBMostrar))
                 .addContainerGap(97, Short.MAX_VALUE))
         );
 
@@ -121,7 +121,7 @@ public class TrinagulosEnClase extends javax.swing.JFrame {
             Objetotriangulo.setLado3(Double.valueOf(jTLado3.getText())); 
             jLResultado.setText(Objetotriangulo.MostrarResultado());
        }
-        
+        // Nuevamente disculpen estoy probando
     }//GEN-LAST:event_jBMostrarActionPerformed
 
     /**
