@@ -121,6 +121,7 @@ public class TrinagulosEnClase extends javax.swing.JFrame {
             Objetotriangulo.setLado3(Double.valueOf(jTLado3.getText())); 
             jLResultado.setText(Objetotriangulo.MostrarResultado());
        }
+        //Rama principal
         
     }//GEN-LAST:event_jBMostrarActionPerformed
 
