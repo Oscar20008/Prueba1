@@ -42,5 +42,6 @@ public class TRIANGULO {
         else{
              return "Triangulo Escaleno";
         }
+        //GIT
     }   
 }
