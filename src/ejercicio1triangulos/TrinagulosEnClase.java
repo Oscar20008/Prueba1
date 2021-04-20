@@ -122,6 +122,7 @@ public class TrinagulosEnClase extends javax.swing.JFrame {
             jLResultado.setText(Objetotriangulo.MostrarResultado());
        }
         // Nuevamente disculpen estoy probando
+        //Prueba para el proyecto
     }//GEN-LAST:event_jBMostrarActionPerformed
 
     /**
